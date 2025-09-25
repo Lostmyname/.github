@@ -4,7 +4,7 @@ Trello Link:
 Briefly describe the problem and the outcome
 
 ## What changed
-- Bullet points to sumamrise the changes made to the code
+- Bullet points to summarise the changes made to the code
 
 ## How to test
 - Simple steps to recreate and validate the work

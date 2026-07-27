@@ -1,5 +1,3 @@
-Trello Link: 
-
 ## Why
 Briefly describe the problem and the outcome
 
